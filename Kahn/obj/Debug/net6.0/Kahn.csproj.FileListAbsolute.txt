@@ -1,0 +1,15 @@
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\bin\Debug\net6.0\Kahn.exe
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\bin\Debug\net6.0\Kahn.deps.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\bin\Debug\net6.0\Kahn.runtimeconfig.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\bin\Debug\net6.0\Kahn.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\bin\Debug\net6.0\Kahn.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.csproj.AssemblyReference.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.AssemblyInfoInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.AssemblyInfo.cs
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.csproj.CoreCompileInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\refint\Kahn.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\Kahn.genruntimeconfig.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\AlgoritmoKahn\Kahn\Kahn\obj\Debug\net6.0\ref\Kahn.dll
